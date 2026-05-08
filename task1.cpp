@@ -107,7 +107,7 @@ int main() {
 
         ourModel.Draw();
 
-        glfwSwapBuffers(Okno);
+        glfwSwapBuffers(Window);
         glfwPollEvents();
     }
 
